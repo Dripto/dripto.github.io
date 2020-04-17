@@ -1,0 +1,41 @@
+{% assign plang = page.lang | default: site.langs[0] | default: "en" %}
+<span class="contact-list-title">
+  {{ site.data.academic_i18n.links[plang] }}
+</span>
+<ul class="contact-list {{ include.class }}">
+  <!-- <li>
+    {% include _icons/rss.html %}
+  </li> -->
+
+  {% if site.googlescholar_username %}
+  <li>
+    {% include _icons/googlescholar.html username=site.googlescholar_username %}
+  </li>
+  {% endif %}
+
+
+  {% if site.scirate_username %}
+  <li>
+    {% include _icons/scirate.html username=site.scirate_username %}
+  </li>
+  {% endif %}
+
+
+  {% if site.twitter_username %}
+  <li>
+    {% include _icons/twitter.html username=site.twitter_username %}
+  </li>
+  {% endif %}
+
+
+  <!-- {% if site.github_username %}
+  <li>
+    {% include _icons/github.html username=site.github_username %}
+  </li>
+  {% endif %} -->
+
+
+
+
+
+</ul>
