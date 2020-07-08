@@ -6,9 +6,10 @@ permalink:
 ---
 
 \\
-<a href="https://arxiv.org/abs/2004.04706">Architecting Noisy Intermediate-Scale Trapped Ion Quantum Computers</a>\\
+<a href="https://conferences.computer.org/isca/pdfs/ISCA2020-4QlDegUf3fKiwUXfV0KdCm/466100a529/466100a529.pdf">Architecting Noisy Intermediate-Scale Trapped Ion Quantum Computers</a>\\
 P Murali, DM Debroy, KR Brown, & M Martonosi\\
-International Symposium on Computer Architecture (2020)
+International Symposium on Computer Architecture (2020)\\
+<a href = "https://phys.org/news/2020-07-ion-technology-quantum.html"> Press ReleaseM/a> -- <a href="https://www.youtube.com/watch?v=eSjgttQrZpE"> Prakash's ISCA Talk</a>
 
 <a href="https://iopscience.iop.org/article/10.1088/2058-9565/ab7e80/meta">Logical Performance of 9 Qubit Compass Codes in Ion Traps with Crosstalk Errors</a>\\
 DM Debroy, M Li, S Huang, & KR Brown\\
