@@ -8,7 +8,7 @@ permalink:
 \\
 <a href="https://arxiv.org/abs/2009.07752">Extended Flag Gadgets for Low-Overhead Circuit Verification</a>\\
 DM Debroy, KR Brown\\
-arXiv preprint (2020)\\
+arXiv preprint (2020)
 
 <a href="https://conferences.computer.org/isca/pdfs/ISCA2020-4QlDegUf3fKiwUXfV0KdCm/466100a529/466100a529.pdf">Architecting Noisy Intermediate-Scale Trapped Ion Quantum Computers</a>\\
 P Murali, DM Debroy, KR Brown, M Martonosi\\
