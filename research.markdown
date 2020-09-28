@@ -5,8 +5,6 @@ captitle: Research
 permalink:
 ---
 
-\\
-
 <a href="https://arxiv.org/abs/2009.1236">Fault-Tolerant Operation of a Quantum Error-Correction Code</a>\\
 L Egan, DM Debroy, C Noel, A Risinger, D Zhu, D Biswas, M Newman, M Li, KR Brown, M Cetina, C Monroe\\
 arXiv preprint (2020)
