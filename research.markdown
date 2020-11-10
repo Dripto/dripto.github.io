@@ -5,13 +5,17 @@ captitle: Research
 permalink:
 ---
 
+<a href="https://arxiv.org/abs/2010.15876">TILT: Achieving Higher Fidelity on a Trapped-Ion Linear-Tape Quantum Computing Architecture</a>\\
+XC Wu, DM Debroy, Y Ding, JM Baker, Y Alexeev, KR Brown, FT Chong\\
+arXiv preprint, accepted to HPCA '21 (2020)
+
 <a href="https://arxiv.org/abs/2009.1236">Fault-Tolerant Operation of a Quantum Error-Correction Code</a>\\
 L Egan, DM Debroy, C Noel, A Risinger, D Zhu, D Biswas, M Newman, M Li, KR Brown, M Cetina, C Monroe\\
 arXiv preprint (2020)
 
-<a href="https://arxiv.org/abs/2009.07752">Extended Flag Gadgets for Low-Overhead Circuit Verification</a>\\
+<a href="https://journals.aps.org/pra/abstract/10.1103/PhysRevA.102.052409">Extended Flag Gadgets for Low-Overhead Circuit Verification</a>\\
 DM Debroy, KR Brown\\
-arXiv preprint (2020)
+Physical Review A, 102, 052409 (2020)
 
 <a href="https://conferences.computer.org/isca/pdfs/ISCA2020-4QlDegUf3fKiwUXfV0KdCm/466100a529/466100a529.pdf">Architecting Noisy Intermediate-Scale Trapped Ion Quantum Computers</a>\\
 P Murali, DM Debroy, KR Brown, M Martonosi\\
