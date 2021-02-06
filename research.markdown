@@ -15,8 +15,8 @@ arXiv preprint (2020)
 
 <a href="https://journals.aps.org/pra/abstract/10.1103/PhysRevA.102.052409">Extended Flag Gadgets for Low-Overhead Circuit Verification</a>\\
 DM Debroy, KR Brown\\
-Physical Review A, 102, 052409 (2020)
-<a href="/files/551_Debroy_poster.pdf">QIP20 Poster</a>
+Physical Review A, 102, 052409 (2020)\\
+<a href="/files/551_Debroy_poster.pdf">QIP2021 Poster</a>
 
 <a href="https://conferences.computer.org/isca/pdfs/ISCA2020-4QlDegUf3fKiwUXfV0KdCm/466100a529/466100a529.pdf">Architecting Noisy Intermediate-Scale Trapped Ion Quantum Computers</a>\\
 P Murali, DM Debroy, KR Brown, M Martonosi\\
@@ -26,7 +26,7 @@ International Symposium on Computer Architecture (2020)\\
 <a href="https://iopscience.iop.org/article/10.1088/2058-9565/ab7e80/meta">Logical Performance of 9 Qubit Compass Codes in Ion Traps with Crosstalk Errors</a>\\
 DM Debroy, M Li, S Huang, KR Brown\\
 Quantum Science and Technology (2020)\\
-<a href="/files/9QubitPoster.pdf">QIP20 Poster</a>
+<a href="/files/9QubitPoster.pdf">QIP2020 Poster</a>
 
 <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.250502">Stabilizer Slicing: Coherent Error Cancellations in Low-Density Parity-Check Stabilizer Codes</a>\\
 DM Debroy, M Li, M Newman, KR Brown\\
