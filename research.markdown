@@ -16,6 +16,7 @@ arXiv preprint (2020)
 <a href="https://journals.aps.org/pra/abstract/10.1103/PhysRevA.102.052409">Extended Flag Gadgets for Low-Overhead Circuit Verification</a>\\
 DM Debroy, KR Brown\\
 Physical Review A, 102, 052409 (2020)
+<a href="/files/551_Debroy_poster.pdf">QIP20 Poster</a>
 
 <a href="https://conferences.computer.org/isca/pdfs/ISCA2020-4QlDegUf3fKiwUXfV0KdCm/466100a529/466100a529.pdf">Architecting Noisy Intermediate-Scale Trapped Ion Quantum Computers</a>\\
 P Murali, DM Debroy, KR Brown, M Martonosi\\
